@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hockey-planner
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -66,3 +67,6 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+=======
+# Kingston Hockey Tournament Planner WIP
+>>>>>>> a9c6287bd0bb542c2962de9d31bda8bd411081f2
