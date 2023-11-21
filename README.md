@@ -1,1 +1,1 @@
-# KHTP
+# Kingston Hockey Tournament Planner WIP
